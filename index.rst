@@ -10,7 +10,7 @@ Step by Step Guide for Canon Printer Setup via ij.start.canon
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: downlaod-now.png
       :width: 350px
       :align: center
       :height: 100px
